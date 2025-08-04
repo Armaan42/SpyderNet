@@ -19,5 +19,3 @@ intitle:”EvoCam” inurl:”webcam.html”
 intitle:”Live NetSnap Cam-Server feed”
 intitle:”Live View / – AXIS”
 inurl:indexFrame.shtml Axis
-
-Source : https://www.technotification.com/
