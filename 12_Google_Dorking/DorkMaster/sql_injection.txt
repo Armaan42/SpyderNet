@@ -617,5 +617,3 @@ inurl:rubp.php?idr=
 inurl:offer.php?idf=
 inurl:art.php?idm=
 inurl:title.php?=
-
-Source : https://crackerstreet.blogspot.com/

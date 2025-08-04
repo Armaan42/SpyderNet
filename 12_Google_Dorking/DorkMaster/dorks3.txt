@@ -1630,6 +1630,3 @@ content.php?p=
 page.php?module=
 ?pid=
 bookpage.php?id=
-
-
-SOURCE : https://nextleveltricks.net/
